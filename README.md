@@ -1,4 +1,3 @@
-## setup-keepnet-tbtc-node
 
 ## Set up your KEEP Network and tBTC node
 
